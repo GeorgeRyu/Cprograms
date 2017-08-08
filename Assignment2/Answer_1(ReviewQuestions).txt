@@ -20,7 +20,7 @@ Q4
 
 
 Q5
-	1 (or ``true''), because 3 is in fact less than 4.
+	1 (or "true"), because 3 is in fact less than 4.
 
 
 Q6
@@ -28,7 +28,7 @@ Q6
 
 
 Q7
-	It would print ``yes'', since x is nonzero.
+	It would print "yes", since x is nonzero.
 
 
 Q8
