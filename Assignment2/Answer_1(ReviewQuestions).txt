@@ -1,0 +1,42 @@
+Q1
+	The two kinds of division are integer division, which discards any remainder, and floating-point division, which yields a floating-point result (with a fractional part, if necessary). Floating-point division is performed if either operand (or both) is floating-point (that is, if either number being operated on is floating-point); integer division is performed if both operands are integers.
+
+
+Q2
+	False is always represented by a zero value. Any nonzero value is considered true. The built-in operators <, <=, >, >=, ==, !=, &&, ||, and ! always generate 0 for false and 1 for true.
+
+
+Q3
+	Terminating declarations, terminating statements, and separating the three control expressions in a for loop.
+
+
+Q4
+	i = 0;
+	while(i < 10)
+		{
+		printf("i is %d\n", i);
+		i++;
+		}
+
+
+Q5
+	1 (or ``true''), because 3 is in fact less than 4.
+
+
+Q6
+	If T is greater than or equal to 32 and less than 212. (If you said ``greater than 32 and less than 212'', you weren't quite right, and this kind of distinction--paying attention to the difference between ``greater than'' and ``greater than or equal''--is often extremely important in programming.)
+
+
+Q7
+	It would print ``yes'', since x is nonzero.
+
+
+Q8
+	a
+	b
+	a
+	b
+	a
+	b
+	c			
+
